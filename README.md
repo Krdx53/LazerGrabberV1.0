@@ -3,7 +3,7 @@
 # Help
 This version of the grabber only supports **Windows**.
  1. Create a webhook on your Discord server.
- 2. Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in [Lazer] once you open it
+ 2. Change the 'WEBHOOK_URL' to your Discord webhook URL in [Lazer] once you open it
  3. The Rest Shows Inside The File.
 
 # Features
@@ -12,7 +12,7 @@ This version of the grabber only supports **Windows**.
 - Grabs Google Chrome passwords
 - Grabs Discord token
 - Grabs victim machine info
-- Grabs IP address, geolocation
+- Grabs IP address
 
 # Customize
 - You Can Add A Custom File Icon For The Grabbing File
