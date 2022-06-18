@@ -23,7 +23,7 @@ This version of the grabber only supports **Windows**.
 # Read
 This tool demonstrates and makes it easy to create your own grabber/logger. This shows the type of ways attackers can grab information from a victim's computer. Do not use it on other people maliciously please 
 
-do not use the program maliciously. This program is intended to be for educational purposes. LazerGraber is only used to demonstrate what type of ways attackers can grab information from a user's computer.
+This program is intended to be for educational purposes. LazerGraber is only used to demonstrate what type of ways attackers can grab information from a user's computer.
 
 
 # Author/Helper
